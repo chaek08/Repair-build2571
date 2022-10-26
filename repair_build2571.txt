@@ -33,7 +33,7 @@
 30. Улучшить xrgame, убрать все предупреждения, взять код ножа за 7 июня 2006 (Готово)
 31. добавить MAX_LOCK_TIME, не знаю что это такое но звучит убедительно (Сделано)
 32. Исправить вылет (m_game_object && m_game_object->lua_game_object() == thisProbably, you are trying to use a destroyed object!) (Пофиксил)
-33. Пофиксить вылет (Expression "no_assertSpecified object hasn't been found in the registry!) (Вроде пофиксил, не помню)
+33. Пофиксить вылет (Expression "no_assertSpecified object hasn't been found in the registry!) (Пофиксил)
 34. Починить вылет (nodefault: reached) (Починил вроде..)
 35. Поставить другой "нормальный" заголовок игры (Custom XRAY Engine, сделано)
 36. Настроить проект также под конфигурацию Release
