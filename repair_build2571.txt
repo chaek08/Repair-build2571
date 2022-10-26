@@ -30,6 +30,6 @@
 27. Пофиксить 2 предупреждения при компиляции xrgame (warning C4511: 'is_pm_class<T>::c1' : copy constructor could not be generated) (Пофиксил)
 28. Исправить опечатку в главном меню (мультиплЭер) (Исправил)
 29. Добавить настройки рендеров в настройки
-30. Улучшил xrgame, убрал все предупреждения, взял код ножа за 7 июня 2006
-31. добавил MAX_LOCK_TIME, не знаю что это такое но звучит убедительно
-32. Исправить вылет (m_game_object && m_game_object->lua_game_object() == thisProbably, you are trying to use a destroyed object!)
+30. Улучшить xrgame, убрать все предупреждения, взять код ножа за 7 июня 2006 (Готово)
+31. добавить MAX_LOCK_TIME, не знаю что это такое но звучит убедительно (Сделано)
+32. Исправить вылет (m_game_object && m_game_object->lua_game_object() == thisProbably, you are trying to use a destroyed object!) (Пофиксил)
