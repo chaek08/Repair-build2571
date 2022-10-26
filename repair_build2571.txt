@@ -26,14 +26,14 @@
 23. Пофиксить предупреждение при компиляции xrgame (UIBag.cpp(219) : warning C4189: 'money' : local variable is initialized but not referenced) (Пофиксил)
 24. Починить задние фоны в сохранениях и загрузках сохранений (Починил)
 25. Сделать невырвиглазные шрифты в сохранениях и загрузках сохранений (Сделал)
-26. Как то решить проблему с деньгами?
+26. Как то решить проблему с деньгами? (?)
 27. Пофиксить 2 предупреждения при компиляции xrgame (warning C4511: 'is_pm_class<T>::c1' : copy constructor could not be generated) (Пофиксил)
 28. Исправить опечатку в главном меню (мультиплЭер) (Исправил)
 29. Добавить настройки рендеров в настройки
 30. Улучшить xrgame, убрать все предупреждения, взять код ножа за 7 июня 2006 (Готово)
 31. добавить MAX_LOCK_TIME, не знаю что это такое но звучит убедительно (Сделано)
 32. Исправить вылет (m_game_object && m_game_object->lua_game_object() == thisProbably, you are trying to use a destroyed object!) (Пофиксил)
-33. Пофиксить вылет (Expression "no_assertSpecified object hasn't been found in the registry!)
+33. Пофиксить вылет (Expression "no_assertSpecified object hasn't been found in the registry!) (Вроде пофиксил, не помню)
 34. Починить вылет (nodefault: reached) (Починил вроде..)
 35. Поставить другой "нормальный" заголовок игры (Custom XRAY Engine, сделано)
 36. Настроить проект также под конфигурацию Release
