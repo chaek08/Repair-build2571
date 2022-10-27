@@ -29,7 +29,7 @@
 26. Как то решить проблему с деньгами? (?)
 27. Пофиксить 2 предупреждения при компиляции xrgame (warning C4511: 'is_pm_class<T>::c1' : copy constructor could not be generated) (Пофиксил)
 28. Исправить опечатку в главном меню (мультиплЭер) (Исправил)
-29. Добавить настройки рендеров в настройки                                                                                                              !!!!!!!!!!
+29. Добавить настройки рендеров в настройки (В ДАЛЁКОМ БУДУЩЕМ!!!)
 30. Улучшить xrgame, убрать все предупреждения, взять код ножа за 7 июня 2006 (Готово)
 31. добавить MAX_LOCK_TIME, не знаю что это такое но звучит убедительно (Сделано)
 32. Исправить вылет (m_game_object && m_game_object->lua_game_object() == thisProbably, you are trying to use a destroyed object!) (Пофиксил)
@@ -41,6 +41,8 @@
 38. Сделать скриншоты в формате .png (Сделано)
 39. Пофиксить предупреждение при компиляции рендера (r__sector.cpp, Line 93. DetailManager_VS.cpp, Line 178) (Пофиксил)
 40. Пофиксить недочёты локализации в меню и настройках (Пофиксил)
-41. Пофиксить вылет (!m_restricted_object || m_restricted_object->accessible(dest_position)Old movement destination is not accessible after changing restrictions!) (Починил?)
+41. Пофиксить вылет (!m_restricted_object || m_restricted_object->accessible(dest_position)Old movement destination is not accessible after changing restrictions!) (Починил)
 42. Убрать отображение имени НПС при нажатии клавиши "F" (Сделано)
+43. Добавить название версии в меню (Сделано)
+44. Немного изменить сплеш под дату 27.10 (Сделано)
 
