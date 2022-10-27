@@ -41,3 +41,4 @@
 38. Сделать скриншоты в формате .png (Сделано)
 39. Пофиксить предупреждение при компиляции рендера (r__sector.cpp, Line 93. DetailManager_VS.cpp, Line 178) (Пофиксил)
 40. Пофиксить недочёты локализации в меню и настройках (Пофиксил)
+41. Пофиксить вылет (!m_restricted_object || m_restricted_object->accessible(dest_position)Old movement destination is not accessible after changing restrictions!)
