@@ -42,5 +42,5 @@
 39. Пофиксить предупреждение при компиляции рендера (r__sector.cpp, Line 93. DetailManager_VS.cpp, Line 178) (Пофиксил)
 40. Пофиксить недочёты локализации в меню и настройках (Пофиксил)
 41. Пофиксить вылет (!m_restricted_object || m_restricted_object->accessible(dest_position)Old movement destination is not accessible after changing restrictions!) (Починил?)
-42. Изменил какой то код в object_actions.cpp, не знаю за что он отвечает, но лишним точно не будет
-43. Убрать отображение имени НПС при нажатии клавиши "F" (Сделано)
+42. Убрать отображение имени НПС при нажатии клавиши "F" (Сделано)
+
