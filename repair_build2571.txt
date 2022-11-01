@@ -60,4 +60,4 @@
 57. Добавить траву там где её нет (Сделано) 
 58. Исправить предупреждение при компиляции xrSound (warning C4267: 'initializing' : conversion from 'size_t' to 'u32', possible loss of data) (Пофиксил)
 59. Пофиксить предупреждение при компиле xrnetserver (warning C4101: 'tmp' : unreferenced local variable) (Пофиксил)
-
+60. Пофиксить все предупреждения при компили xrgame (warning C4702: unreachable code)
