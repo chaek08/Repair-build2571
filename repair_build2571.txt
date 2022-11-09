@@ -66,4 +66,4 @@
 63. Изменить сплеш игры под 1 ноября (Готово)
 64. Удалить мёртвый код!!! В xr_3da (Большая часть убрана)
 65. Пофиксить предупреждение xrsound (SoundRender_Emitter_FSM.cpp(15) : warning C4311: 'type cast' : pointer truncation from 'CSound_interface *' to 'int') (Сделано)
-
+66. Добавлен (g_pGamePersistent->Environment.OnDeviceDestroy) в device_destroy.cpp
