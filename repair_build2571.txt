@@ -69,3 +69,4 @@
 66. Добавлен (g_pGamePersistent->Environment.OnDeviceDestroy) в device_destroy.cpp
 67. Заменён сплеш, заголовок, иконка
 68. Теперь нельзя попиздеть с врагами в атаке
+69. Ебать. Пофиксить эти ошибки (stalker_animation_callbacks.cpp, line 70) (xr_object.cpp, line 230)
