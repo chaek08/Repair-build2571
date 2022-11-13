@@ -70,4 +70,5 @@
 67. Заменён сплеш, заголовок, иконка
 68. Теперь нельзя попиздеть с врагами в атаке
 69. Ебать. Пофиксить эти ошибки (stalker_animation_callbacks.cpp, line 70) (xr_object.cpp, line 230)
-70. Изменить размер шрифта индикации НПС
+70. Изменить размер шрифта индикации НПС (Сделано)
+71. Исправить вылет (alife_query || !smart_cast<CSE_ALifeDynamicObject*>(&object) || (ai().game_graph().vertex(smart_cast<CSE_ALifeDynamicObject*>(&object)->m_tGraphID)->level_id() == level().level_id())) в alife_graph_registry.cpp , Line 106
