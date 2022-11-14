@@ -74,3 +74,4 @@
 71. Исправить вылет (alife_query || !smart_cast<CSE_ALifeDynamicObject*>(&object) || (ai().game_graph().vertex(smart_cast<CSE_ALifeDynamicObject*>(&object)->m_tGraphID)->level_id() == level().level_id())) в alife_graph_registry.cpp , Line 106
 72. Перенесёна функция game paused в hudmanager
 73. Трэээш, удаление мёртвого кода едрён батон
+74. Добавил g_hud в CustomHUD.cpp. Не знаю что это такое, но звучит хайпово!
