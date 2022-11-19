@@ -1,1 +1,1 @@
-76.
+76. Пофиксить вылет (m_spawned, line 712, GameObject.cpp)
