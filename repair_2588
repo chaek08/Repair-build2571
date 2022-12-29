@@ -1,3 +1,6 @@
-1. FIX Убран fASPECT из рендера камеры (xr_3da,render_r2,r1, как в релизе)
-2. FIX предупреждения feel_vision в xr_3da
-3. FIX предупреждения c_lmap в xrrender_r1,r2
+1. FIX : Убран fASPECT из рендера камеры (xr_3da,render_r2,r1, как в релизе)
+2. FIX : предупреждения feel_vision в xr_3da
+3. FIX : предупреждения c_lmap в xrrender_r1,r2
+4. FIX : недостижимых кодов при сборке xrGame
+5. FIX : предупреждение _type_traits
+6. FIX : Убран TODO от разрабов в xrGame (Частично)
